@@ -10,7 +10,9 @@ Built with Python. Fueled by curiosity (and caffeine).
 
 ## 👤 About Me
 
-ML engineer-in-training with a background in Python, SQL, and machine learning — now venturing into the land of pointers, recursion trees, and Big-O notation. This repo is my public notebook, grind log, and proof of survival.
+Hi, I’m K! I spend most of my time thinking about uncertainty, probabilities, and why models are wrong but still useful.
+I’m really into Bayesian machine learning and research-heavy ML problems.
+Long term, I want to work where math, markets, and machine learning collide.
 
 ---
 
