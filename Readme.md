@@ -80,7 +80,7 @@ Each `notes.md` follows this template:
 | Trees | ⏳ Not Started | 0 |
 | Graphs | ⏳ Not Started | 0 |
 | Dynamic Programming | ⏳ Not Started | 0 |
-| Sorting | ⏳ Not Started | 0 |
+| Sorting | ⏳In Progress | 0 |
 
 ---
 
