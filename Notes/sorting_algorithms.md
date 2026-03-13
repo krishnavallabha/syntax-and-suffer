@@ -186,7 +186,7 @@ T(n) = T(n-1) + n  →  O(n²)
 | Best / Average | O(n log n) | O(log n) |
 | Worst | O(n²) | O(n) |
 
-> Quick sort is the **fastest in practice** due to small constants and good cache performance, despite its O(n²) worst case. The worst case is avoided by choosing a good pivot (e.g. random pivot or median-of-three).
+> quick sort  is the **fastest in practice** due to small constants and good cache performance, despite its O(n²) worst case. The worst case is avoided by choosing a good pivot (e.g. random pivot or median-of-three).
 
 ---
 
